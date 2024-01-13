@@ -3,8 +3,6 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-        const leftProductArray=[]
-        const rightProductArray=[]
         const productArray=[]; 
         let lastProd=1;
         for(let i=0;i<nums.length;i++){
