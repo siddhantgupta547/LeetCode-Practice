@@ -12,8 +12,6 @@ var lengthOfLongestSubstring = function(s) {
         if(uniq.has(s[i])){
             uniq.delete(s[j++])
             currentLength--;
-            if(j>=i)
-                j=i;
         }
         else{
             uniq.add(s[i]);
