@@ -3,6 +3,8 @@
  * @param {number[]} nums2
  * @return {number[]}
  */
+//Approach 1
+/*
 var intersect = function(nums1, nums2) {
     const valueMap= new Map()
     const intersectionArray=[]
@@ -20,6 +22,27 @@ var intersect = function(nums1, nums2) {
             intersectionArray.push(nums2[i])
             const currentValue=valueMap.get(nums2[i])
             valueMap.set(nums2[i],currentValue-1)
+        }
+    }
+    return intersectionArray
+};
+*/
+var intersect = function(nums1, nums2) {
+    const sorted1= nums1.sort((a,b)=>a-b)
+    const sorted2= nums2.sort((a,b)=>a-b)
+    const intersectionArray=[]
+    let i=0; let j=0;
+    while(i<sorted1.length && j<sorted2.length){
+        if(sorted1[i]===sorted2[j]){
+            intersectionArray.push(sorted1[i])
+            i++;
+            j++;
+        }
+        else if(sorted1[i]>sorted2[j]){
+            j++;
+        }
+        else{
+            i++;
         }
     }
     return intersectionArray
