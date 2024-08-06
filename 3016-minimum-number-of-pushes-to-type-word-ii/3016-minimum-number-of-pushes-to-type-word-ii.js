@@ -17,7 +17,6 @@ var minimumPushes = function(word) {
         freqArray.push([key,value])
     })
     freqArray.sort((a,b)=>b[1]-a[1])
-    map.delete()
     let count=1;
     let output=0
     let numberToBeMappedTo=2
