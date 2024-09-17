@@ -5,14 +5,8 @@
  */
 var uncommonFromSentences = function(s1, s2) {
     const map= new Map()
-    s1.split(' ').forEach(item=>{
-        if(map.has(item)){
-            map.set(item,map.get(item)+1)
-        }else{
-            map.set(item,1)
-        }
-    })
-    s2.split(' ').forEach(item=>{
+    const newString=s1+" "+s2
+    newString.split(' ').forEach(item=>{
         if(map.has(item)){
             map.set(item,map.get(item)+1)
         }else{
