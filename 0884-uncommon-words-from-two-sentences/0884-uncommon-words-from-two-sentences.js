@@ -4,35 +4,32 @@
  * @return {string[]}
  */
 var uncommonFromSentences = function(s1, s2) {
-     let output = [];
-    
-    let splits1 = s1.split(" ");
-    
-    let splits2 = s2.split(" ");
-    
-    let length = "";
-    
-    if(splits1.length > splits2.length){
-        length = splits1.length;
-    } else {
-        length = splits2.length;
-    }
-    
-    let map = {};
-    
-    for(let i = 0; i < length; i++){
-        
-        if(splits1[i] !== undefined ){
-            map[splits1[i]] = (map[splits1[i]] || 0) + 1;
+    const s1Map= new Map()
+    const s2Map=new Map()
+    s1.split(' ').forEach(item=>{
+        if(s1Map.has(item)){
+            s1Map.set(item,s1Map.get(item)+1)
+        }else{
+            s1Map.set(item,1)
         }
-        if(splits2[i] !== undefined ){
-            map[splits2[i]] = (map[splits2[i]] || 0) + 1;
+    })
+    s2.split(' ').forEach(item=>{
+        if(s2Map.has(item)){
+            s2Map.set(item,s2Map.get(item)+1)
+        }else{
+            s2Map.set(item,1)
         }
-
-    }
-    
-    
-    Object.entries(map).map(([key,val]) => val === 1 ? output.push(key) : null);
-    
-    return output;
+    })
+    const result=[]
+    s1Map.forEach((value,key)=>{
+        if(value<2 && !s2Map.has(key)){
+            result.push(key)
+        }
+    })
+    s2Map.forEach((value,key)=>{
+        if(value<2 && !s1Map.has(key)){
+            result.push(key)
+        }
+    })
+    return result
 };
