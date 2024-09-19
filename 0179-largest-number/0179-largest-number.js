@@ -11,7 +11,7 @@ var largestNumber = function(nums) {
         }else if(stringA+stringB<stringB+stringA){
             return 1
         }else{
-            return 1
+            return 0
         }
     }).join('')
     if(Number(sortedString)===0){
