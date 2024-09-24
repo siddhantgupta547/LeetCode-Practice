@@ -11,14 +11,33 @@
  * @return {ListNode}
  */
 var detectCycle = function(head) {
-    const set= new Set()
-    let current = head
-    while(current){
-        if(set.has(current)){
-            return current
+    // const set= new Set()
+    // let current = head
+    // while(current){
+    //     if(set.has(current)){
+    //         return current
+    //     }
+    //     set.add(current)
+    //     current=current.next
+    // }
+    // return null
+    let slowPointer=head
+    let fastPointer=head
+    let ran=false
+    while(fastPointer && fastPointer.next && (fastPointer!==slowPointer || !ran)){
+        if(!ran){
+            ran=true
         }
-        set.add(current)
-        current=current.next
+        fastPointer=fastPointer.next.next
+        slowPointer=slowPointer.next
+    }
+    if(ran && slowPointer===fastPointer){
+        let current=head
+        while(current!==slowPointer){
+            current=current.next
+            slowPointer=slowPointer.next
+        }
+        return current
     }
     return null
 };
