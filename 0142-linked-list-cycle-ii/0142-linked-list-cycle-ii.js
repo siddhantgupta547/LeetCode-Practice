@@ -41,3 +41,4 @@ var detectCycle = function(head) {
     }
     return null
 };
+//https://www.youtube.com/watch?v=vlrxs-LPni4&list=PLpIkg8OmuX-LH398-_ZcuHiRueOdsJbXU&index=5
