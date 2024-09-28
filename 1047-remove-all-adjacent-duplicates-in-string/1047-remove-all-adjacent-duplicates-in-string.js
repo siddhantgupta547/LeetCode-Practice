@@ -2,6 +2,9 @@
  * @param {string} s
  * @return {string}
  */
+
+/*Time Complexity O(n)
+  Space Complexity:O(n) */
 var removeDuplicates = function(s) {
     const stack=[]
     let top=-1
