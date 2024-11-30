@@ -45,7 +45,6 @@ var decrypt = function(code, k) {
         if(j>=code.length){
             j=j-code.length
         }
-        console.debug(code[toBeRemoved],toBeRemoved)
         sum+=code[i-1]
         result.push(sum)
         m++
