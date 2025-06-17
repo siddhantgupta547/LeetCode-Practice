@@ -28,6 +28,9 @@ var generateParenthesis = function(n) {
     let count=0
     function generateAll(current,open,close){
         const equal=open===close
+        if(close>open || open>n){
+            return
+        }
         if(current.length===2*n){
             if(equal){
                 if(checkBalanced(current))
