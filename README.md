@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0071-simplify-path) |
+| [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
@@ -48,4 +49,24 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
