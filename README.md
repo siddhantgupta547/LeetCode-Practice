@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0983-validate-stack-sequences](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1552-build-an-array-with-stack-operations) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -78,4 +80,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
