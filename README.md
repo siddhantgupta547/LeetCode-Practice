@@ -78,15 +78,21 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
+| [2481-strictly-palindromic-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0768-partition-labels) |
+| [2481-strictly-palindromic-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2481-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0768-partition-labels) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
