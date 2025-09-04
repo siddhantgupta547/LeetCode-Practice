@@ -26,8 +26,16 @@ var searchRange = function(nums, target) {
                 last=mid
             }
         }
-        binarySearch(nums,target,mid+1,right)
-        binarySearch(nums,target,left,mid-1) 
+        if(found){
+            binarySearch(nums,target,mid+1,right)
+            binarySearch(nums,target,left,mid-1) 
+        }else{
+            if(item>target){
+                binarySearch(nums,target,left,mid-1) 
+            }else{
+                binarySearch(nums,target,mid+1,right)
+            }
+        }
     }
     binarySearch(nums,target,0,nums.length-1)
     return [first,last]
