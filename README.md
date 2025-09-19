@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0983-validate-stack-sequences](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1552-build-an-array-with-stack-operations) |
+| [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0983-validate-stack-sequences](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1552-build-an-array-with-stack-operations) |
+| [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -109,4 +111,20 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2481-strictly-palindromic-number) |
+## Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
