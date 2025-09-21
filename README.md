@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0983-validate-stack-sequences](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0983-validate-stack-sequences) |
+| [1072-next-greater-node-in-linked-list](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0983-validate-stack-sequences](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0983-validate-stack-sequences) |
+| [1072-next-greater-node-in-linked-list](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 ## Simulation
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
+| [1072-next-greater-node-in-linked-list](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 ## Design
 |  |
