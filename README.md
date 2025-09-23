@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0071-simplify-path) |
+| [0165-compare-version-numbers](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0165-compare-version-numbers) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0768-partition-labels) |
