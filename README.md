@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0768-partition-labels) |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
 | [2481-strictly-palindromic-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
