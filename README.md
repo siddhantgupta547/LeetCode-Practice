@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0204-count-primes) |
 | [2481-strictly-palindromic-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2481-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -136,4 +138,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
