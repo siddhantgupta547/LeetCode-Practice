@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -146,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
