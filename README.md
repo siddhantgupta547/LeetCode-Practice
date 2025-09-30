@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -86,11 +87,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -153,4 +156,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
