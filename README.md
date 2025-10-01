@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1552-build-an-array-with-stack-operations](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 | [1646-kth-missing-positive-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1646-kth-missing-positive-number) |
+| [2294-minimum-time-to-complete-trips](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2294-minimum-time-to-complete-trips) |
 ## Simulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1646-kth-missing-positive-number) |
+| [2294-minimum-time-to-complete-trips](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2294-minimum-time-to-complete-trips) |
 ## Monotonic Stack
 |  |
 | ------- |
