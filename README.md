@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -168,4 +169,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
