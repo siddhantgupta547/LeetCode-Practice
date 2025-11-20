@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0456-132-pattern) |
 | [0983-validate-stack-sequences](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1072-next-greater-node-in-linked-list) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
