@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 | [1646-kth-missing-positive-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1646-kth-missing-positive-number) |
 | [2294-minimum-time-to-complete-trips](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/2294-minimum-time-to-complete-trips) |
+| [3291-find-if-array-can-be-sorted](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0455-assign-cookies) |
+| [3291-find-if-array-can-be-sorted](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [3291-find-if-array-can-be-sorted](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Tree
 |  |
 | ------- |
