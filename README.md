@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1072-next-greater-node-in-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1582-design-browser-history) |
 ## Design
 |  |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
