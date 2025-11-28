@@ -15,16 +15,20 @@ var kthSmallest = function(root, k) {
     if(!root){
         return -1
     }
-    const result=[]
-    function inOrder(node){
+    //const result=[]
+    let elem=Number.MAX_SAFE_INTEGER
+    function inOrder(node,k){
         if(node.left){
-            inOrder(node.left)
+            k=inOrder(node.left,k)
         }
-        result.push(node.val)
+        k--
+        if(k===0)
+            elem=node.val
         if(node.right){
-            inOrder(node.right)
+            k=inOrder(node.right,k)
         }
+        return k
     }
-    inOrder(root)
-    return result[k-1]
+    inOrder(root,k)
+    return elem
 };
