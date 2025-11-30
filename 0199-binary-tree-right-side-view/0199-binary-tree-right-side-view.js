@@ -14,18 +14,31 @@ var rightSideView = function(root) {
     if(!root){
         return []
     }
-    const queue=[[root,1]]
-    const levelRightMost=[]
-    while(queue.length){
-        let [current,level]=queue.shift()
-        levelRightMost[level-1]=current.val
-        level+=1
-        if(current.left){
-           queue.push([current.left,level])
-        } 
-        if(current.right){
-            queue.push([current.right,level])
+    //const queue=[[root,0]]
+    // const result=[]
+    // while(queue.length>0){
+    //     const [node,level]=queue.shift()
+    //     result[level]=node.val
+    //     if(node.left){
+    //         queue.push([node.left,level+1])
+    //     }
+    //     if(node.right){
+    //         queue.push([node.right,level+1])
+    //     }
+    // }
+    // return result
+    const result=[]
+    function recursiveDFS(node,level){
+        if(!(level in result)){
+            result[level]=node.val
+        }
+        if(node.right){
+            recursiveDFS(node.right,level+1)
+        }
+        if(node.left){
+            recursiveDFS(node.left,level+1)
         }
     }
-    return levelRightMost
+    recursiveDFS(root,0)
+    return result
 };
