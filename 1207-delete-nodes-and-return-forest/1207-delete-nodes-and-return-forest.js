@@ -13,7 +13,7 @@
  */
 var delNodes = function (root, to_delete) {
     if (!root) {
-        return [[]]
+        return []
     }
     const result = []
     const toDelete = new Set(to_delete)
