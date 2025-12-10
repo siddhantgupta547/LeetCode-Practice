@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0623-add-one-row-to-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0623-add-one-row-to-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0623-add-one-row-to-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0623-add-one-row-to-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
