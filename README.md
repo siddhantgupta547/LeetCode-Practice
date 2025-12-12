@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0166-fraction-to-recurring-decimal](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0652-find-duplicate-subtrees](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [0768-partition-labels](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0768-partition-labels) |
 | [1207-delete-nodes-and-return-forest](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 ## Sorting
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0623-add-one-row-to-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/0652-find-duplicate-subtrees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddhantgupta547/LeetCode-Practice/tree/master/1484-linked-list-in-binary-tree) |
